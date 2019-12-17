@@ -1,3 +1,5 @@
+// @ts-check
+
 /**
  * Student Name
  * @type {string}
