@@ -82,7 +82,6 @@ class Person {
 }
 
 /**
- * Person one
  * See {@link Person}
  */
 const person1 = new Person({
