@@ -32,3 +32,39 @@ const calculateTax = (amount, tax) => {
 };
 
 // console.log(calculateTax(100, 0.1));
+
+/**
+ * A Student
+ * @typedef {Object} Student
+ * @property {number} id - Student ID
+ * @property {string} name - Student name
+ * @property {string|number} [age] - Student age (optional)
+ * @property {boolean} isActive - Student is active
+ */
+
+/**
+ *
+ * @type {Student}
+ */
+const student = {
+    id: 1,
+    name: 'John Doe',
+    age: 20,
+    isActive: true
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
