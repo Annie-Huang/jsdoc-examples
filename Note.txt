@@ -15,3 +15,5 @@ http://localhost:63342/jsdoc-examples/docs/global.html#studentName
 
 Copy C:\react\jsdoc-examples\node_modules\jsdoc\templates\default into C:\react\jsdoc-examples
 And rename it to custom-template
+
+http://localhost:63342/jsdoc-examples/docs/index.html
