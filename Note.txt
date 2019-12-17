@@ -10,3 +10,4 @@ https://jsdoc.app/
 C:\react\jsdoc-examples>npm init -y
 C:\react\jsdoc-examples>npm i -D jsdoc
 
+C:\react\jsdoc-examples>npm run doc
