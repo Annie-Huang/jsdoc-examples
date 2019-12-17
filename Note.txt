@@ -11,3 +11,4 @@ C:\react\jsdoc-examples>npm init -y
 C:\react\jsdoc-examples>npm i -D jsdoc
 
 C:\react\jsdoc-examples>npm run doc
+http://localhost:63342/jsdoc-examples/docs/global.html#studentName
