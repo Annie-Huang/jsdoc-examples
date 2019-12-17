@@ -20,3 +20,7 @@ And rename it to custom-template
 http://localhost:63342/jsdoc-examples/docs/index.html
 
 C:\react\jsdoc-examples>node src        << This is the same as running node src/index.js
+
+When you create a class, e.g. Person, you can see C:\react\jsdoc-examples\docs\Person.html is generated from the npm script.
+http://localhost:63342/jsdoc-examples/docs/Person.html
+
