@@ -20,3 +20,15 @@ const todo = {
     id: "1",
     text: 'Hello'
 };
+
+/**
+ * Calculate tax
+ * @param {number} amount - Total amount
+ * @param {number} tax - Tax percentage
+ * @returns {string} - Total with a docllar sign
+ */
+const calculateTax = (amount, tax) => {
+    return `$${amount + tax * amount}`;
+};
+
+// console.log(calculateTax(100, 0.1));

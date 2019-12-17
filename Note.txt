@@ -11,9 +11,12 @@ C:\react\jsdoc-examples>npm init -y
 C:\react\jsdoc-examples>npm i -D jsdoc
 
 C:\react\jsdoc-examples>npm run doc
+And then open C:\react\jsdoc-examples\docs\index.html
 http://localhost:63342/jsdoc-examples/docs/global.html#studentName
 
 Copy C:\react\jsdoc-examples\node_modules\jsdoc\templates\default into C:\react\jsdoc-examples
 And rename it to custom-template
 
 http://localhost:63342/jsdoc-examples/docs/index.html
+
+C:\react\jsdoc-examples>node src        << This is the same as running node src/index.js
