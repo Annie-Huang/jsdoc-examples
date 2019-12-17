@@ -81,7 +81,15 @@ class Person {
     }
 }
 
-
+/**
+ * Person one
+ * See {@link Person}
+ */
+const person1 = new Person({
+    name: 'John Doe',
+    age: 30
+});
+console.log(person1.greet());
 
 
 
